@@ -1,2 +1,2 @@
 # SShiderShower
-SShiderShower is a tool for deleting instantly your CS2 Cheats when Uninjected. This is for PC checks. Usefull and practical. It has the system check and Browser check (Only firefox) for the times you`ve gone to a cheat site. And also Intergraded Everything tool for checking of leftovers and ShellBag Analyze. 
+SShiderShower is a tool for deleting instantly your CS2 Cheats when Uninjected. This is for PC checks. Usefull and practical. It has the system check and Browser check (Only firefox) for the times you`ve gone to a cheat site. And also Intergraded Everything tool for checking of leftovers and ShellBag Analyze. Those programs need to be installed already to work. Automation instalation soon! 
