@@ -9,8 +9,8 @@ class App(ctk.CTk):
         self.title("SShiderShower | Integrity Tool")
         self.geometry("700x600")
         self.utils = {
-            "Everything": r"C:\Users\krist\Downloads\forss\programs\Everything\Everything.exe",
-            "Shellbag": r"C:\Users\krist\Downloads\forss\programs\ShellbagAnalyzer\ShellbagAnalyzer.exe"
+            "Everything": r"",
+            "Shellbag": r""
         }
         self.mode_selector = ctk.CTkSegmentedButton(self, values=["PC Scan", "Browser Scan", "Utilities"], command=self.render_ui)
         self.mode_selector.set("PC Scan")
